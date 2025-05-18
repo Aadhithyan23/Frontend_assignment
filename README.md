@@ -15,7 +15,7 @@ This is a fully responsive web application built with **HTML, CSS, and JavaScrip
 
 ## 🚀 Live Demo
 
-[🔗 Click here to view the live demo](https://your-live-demo-url.com)  
+[🔗 Click here to view the live demo](https://aadhithyan23.github.io/Frontend_assignment/)  
 *(Replace with your GitHub Pages, Netlify, or Vercel URL if deployed.)*
 
 ## ⚙️ Setup Instructions
